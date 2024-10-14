@@ -2,13 +2,13 @@
 
 ### Hi there, I am Gabriela 👋
 
-<h3 align="left">A full stack developer based in Barcelona</h3>
+<h3 align="left">An aspiring DevOps</h3>
 
-- 🔭 I’m currently working on `Task Mates`, my first full stack personal project.
-- 🌱 I’m currently improving my `React`skills.
+- 🔭 I’m currently working on `AWS Projects`
+- 🌱 I’m currently improving my `Linux`skills.
 - 👯 I’m looking to collaborate on projects that make a positive social impact.
-- 🤔 I’m looking for help with the back end.
-- ⚡ Fun fact, when I'm not crafting code, you'll find me immersed in a good book. 
+- 🤔 I’m looking for help with bash scripting and atumation. Any advice is more than welcome.
+- ⚡ Fun fact, when I'm not in the Cloud, you'll find me immersed in a good book. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
